@@ -13,4 +13,6 @@ Waste items like food scraps, paper, and liquid waste can mix and decompose, rel
 # WasteAI. (https://www.wasteai.co/)
 
 The idea is to decrease the human intervention and make this waste segregation process more productive. As demonstrated, User can take or upload an image and the model will predict which type of waste it is. Hence, It can get land in correct recycle bin.
+
+# RESNETS
 ![Img](https://github.com/RAJGUPTA28/TrashNet-Classifier/blob/main/resnet.png)
