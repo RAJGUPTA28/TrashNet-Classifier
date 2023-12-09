@@ -16,3 +16,5 @@ The idea is to decrease the human intervention and make this waste segregation p
 
 # RESNETS
 ![Img](https://github.com/RAJGUPTA28/TrashNet-Classifier/blob/main/resnet.png)
+
+# VGG16
