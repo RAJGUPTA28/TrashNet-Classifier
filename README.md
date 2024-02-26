@@ -1,3 +1,6 @@
+# TrashNet-Classifier
+
+Sorting your waste makes it easier to understand how to reduce your general waste output, identify items that can be reused, and set aside items that should be recycled. 
 
 
 
